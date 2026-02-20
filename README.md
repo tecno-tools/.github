@@ -27,4 +27,4 @@ We welcome contributions from the community! To get involved:
 
 ## License
 
-All projects under Tecno Tools are open source. Check the `LICENSE` file in each repository for specific licensing details.
+All **public** projects under Tecno Tools are open source. However, each project follows its own specific license — check the `LICENSE` file in each repository for details.
